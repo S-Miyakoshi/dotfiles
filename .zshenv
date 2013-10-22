@@ -15,12 +15,12 @@ alias bup="brew update"
 alias bupg="brew upgrade"
 
 # git #
-alias g="git"
-alias gs="git status"
-# alias ga="git add"
-# alias gc="git commit -m"
-# alias gco="git checkout"
-# alias gd="git diff"
+alias oppai="git"
+alias oppai check="git status"
+alias oppai add="git add"
+alias oppai commit="git commit -m"
+alias oppai checkout="git checkout"
+alias oppai diff="git diff"
 
 # other #
 alias o="open"
