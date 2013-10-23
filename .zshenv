@@ -21,6 +21,8 @@ alias oppai add="git add"
 alias oppai commit="git commit -m"
 alias oppai checkout="git checkout"
 alias oppai diff="git diff"
+alias oppai pullnpulln="git pull"
+alias oppai push="git push"
 
 # other #
 alias o="open"
